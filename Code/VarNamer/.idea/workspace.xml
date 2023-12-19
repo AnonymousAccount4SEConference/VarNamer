@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfe4b22a-8170-4acf-a912-69d562ee0716" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/eclipse_CommonDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/eclipse_TestingDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/idea_CommonDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/idea_TestingDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/incoder_CommonDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/incoder_TestingDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/varNamer_CommonDataSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Results/varNamer_TestingDataSet.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/org.eclipse.jdt.core/3.31.0/org.eclipse.jdt.core-3.31.0.jar!/org/eclipse/jdt/core/dom/ASTNode.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/org.eclipse.jdt.core/3.31.0/org.eclipse.jdt.core-3.31.0.jar!/org/eclipse/jdt/core/dom/MethodInvocation.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/lib/ReMapper-1.0-SNAPSHOT.jar!/org/remapper/dto/ChildNode.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/lib/ReMapper-1.0-SNAPSHOT.jar!/org/remapper/util/DiceFunction.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/lib/simple-utils-0.0.1-SNAPSHOT.jar!/edu/lu/uni/serval/utils/FileHelper.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2N67fLAs1sYbcrOjvmGIN8F2x8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ph.D/PubliclyAvailableRepos/VarNamerAnonymous/Code/VarNamer/lib/java-string-similarity-2.0.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="false">
+    <layout>
+      <window_info id="Commit_Guest" />
+      <window_info id="Space Code Reviews" order="0" />
+      <window_info id="Bookmarks" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" sideWeight="0.4994759" side_tool="true" weight="0.16751768" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.5005241" visible="true" weight="0.17285156" />
+      <window_info id="Commit" order="5" />
+      <window_info id="Learn" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.32997918" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="TypeScript" order="2" />
+      <window_info anchor="bottom" id="Profiler" order="3" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32997918" />
+      <window_info anchor="bottom" id="File Transfer" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3077724" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32972783" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.23143649" />
+      <window_info anchor="bottom" id="Dependency Checker" order="11" />
+      <window_info anchor="right" id="Maven" weight="0.3298828" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" weight="0.3298828" />
+      <window_info anchor="right" id="Database" weight="0.3298828" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Notifications" side_tool="true" weight="0.3298828" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ph.D\PubliclyAvailableRepos\VarNamerAnonymous\Code\VarNamer\lib" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/context" />
+      <recent name="$PROJECT_DIR$/src/main/java/deprecated" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="deprecated" />
+      <recent name="idea_utils" />
+      <recent name="utils" />
+      <recent name="test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="visitors" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VarNamer">
+    <configuration name="VarNamer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarNamer" />
+      <module name="VarNamer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarNamer_CaseAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarNamer_CaseAnalysis" />
+      <module name="VarNamer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarNamer_RemoveNameReusage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarNamer_RemoveNameReusage" />
+      <module name="VarNamer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarNamer_RemoveNameSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarNamer_RemoveNameSelection" />
+      <module name="VarNamer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarNamer_javaFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarNamer_javaFile" />
+      <module name="VarNamer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VarNamer" />
+        <item itemvalue="Application.VarNamer_CaseAnalysis" />
+        <item itemvalue="Application.VarNamer_javaFile" />
+        <item itemvalue="Application.VarNamer_RemoveNameSelection" />
+        <item itemvalue="Application.VarNamer_RemoveNameReusage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe4b22a-8170-4acf-a912-69d562ee0716" name="Changes" comment="" />
+      <created>1678972782050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678972782050</updated>
+      <workItem from="1678972783971" duration="1849000" />
+      <workItem from="1679884025055" duration="4766000" />
+      <workItem from="1680700968476" duration="2471000" />
+      <workItem from="1680782120182" duration="1814000" />
+      <workItem from="1681007549220" duration="1736000" />
+      <workItem from="1681609515395" duration="598000" />
+      <workItem from="1683535765993" duration="1299000" />
+      <workItem from="1687488724982" duration="1202000" />
+      <workItem from="1687599525059" duration="598000" />
+      <workItem from="1687783537090" duration="598000" />
+      <workItem from="1688608965852" duration="1061000" />
+      <workItem from="1695276181291" duration="13165000" />
+      <workItem from="1695780210781" duration="182000" />
+      <workItem from="1695780778712" duration="756000" />
+      <workItem from="1695872673010" duration="3627000" />
+      <workItem from="1696918774449" duration="10217000" />
+      <workItem from="1697712101820" duration="5594000" />
+      <workItem from="1697859665784" duration="20696000" />
+      <workItem from="1698752989073" duration="8287000" />
+      <workItem from="1700222180926" duration="4487000" />
+      <workItem from="1701742512799" duration="2418000" />
+      <workItem from="1702644632316" duration="1207000" />
+      <workItem from="1702899278727" duration="7524000" />
+      <workItem from="1702973551493" duration="264000" />
+      <workItem from="1702973841546" duration="1422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
