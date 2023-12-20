@@ -23,9 +23,4 @@
 
 4. Make sure that the libraries (jar files) in */Code/VarNamer/lib/* are included by the project.
 
-4. Run */Code/VarNamer/src/main/java/VarNamer.java*
-
-5. The expected output should be like the following figure:
-
-
-![本地路径](RunningResults.png "RunningResults") 
+5. Run */Code/VarNamer/src/main/java/VarNamer.java*
